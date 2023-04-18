@@ -1,0 +1,15 @@
+{
+  "name": "jayeshbhushan",
+  "version": "1.0.1",
+  "description": "Jayesh Bhushan's NPX Business Card",
+  "type": "module",
+  "main": "index.mjs",
+  "bin": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2"
+  }
+}
